@@ -15,14 +15,10 @@
   display: none;
 }
 
-#tag- {
+}
+
+.parent #tag-5 .wicked {
   display: none;
 }
 
-.parent {
-  display: none;
-}
 
-.parent {
-  display: none;
-}
